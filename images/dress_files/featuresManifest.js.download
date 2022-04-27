@@ -1,0 +1,11 @@
+window.__featureManifest = {
+  features: {
+    'acc-alist-end-pt2': true,
+    'acc-alist-end-pt3': true,
+    'acc-int-vouchers': true
+  },
+  mvt: {
+    't1257-category-header-test-web': {},
+    'chk-afterpay': {}
+  }
+};

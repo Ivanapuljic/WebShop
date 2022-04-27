@@ -1,0 +1,31 @@
+body {
+    padding-top: 50px;
+}
+#navbar{
+    background-color: #800000;
+}
+
+#text{
+    background-color: #000000;
+    color: #ffffff;
+}
+#background-image{
+    background-image: url(../images/)
+}
+
+#images{
+    width: auto;
+    height: 200px;
+}
+#footer{
+    margin-top: 50px;
+    background-color: #800000;
+    color: #ffffff;
+}
+#quantity{
+    margin-left: -25px;
+}
+#quantity-label{
+    margin-left: -25px;
+}
+

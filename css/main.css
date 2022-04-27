@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+}
+#navbar{
+    background-color: #800000;
+}
+
+#text{
+    background-color: #000000;
+    color: #ffffff;
+
+}
+
+#background-image{
+    background-image: url(../images/)
+}
